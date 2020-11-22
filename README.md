@@ -18,15 +18,15 @@ The output:
 <img src="https://github.com/zhchuu/normalizing-flows-tutorial-pytorch/blob/master/resources/toy2d_out.png" width="350"/>
 
 
-## Part II (moon dataset)
+## Part II (moons dataset)
 
 The target dataset (left) and the output of trained flows (right):
 
-<img src="https://github.com/zhchuu/normalizing-flows-tutorial-pytorch/blob/master/resources/moon.png" width="350"/><img src="https://github.com/zhchuu/normalizing-flows-tutorial-pytorch/blob/master/resources/moon_out.png" width="350"/>
+<img src="https://github.com/zhchuu/normalizing-flows-tutorial-pytorch/blob/master/resources/moons.png" width="350"/><img src="https://github.com/zhchuu/normalizing-flows-tutorial-pytorch/blob/master/resources/moons_out.png" width="350"/>
 
 The flows:
 
-<img src="https://github.com/zhchuu/normalizing-flows-tutorial-pytorch/blob/master/resources/moon_flow.png" />
+<img src="https://github.com/zhchuu/normalizing-flows-tutorial-pytorch/blob/master/resources/moons_flow.png" />
 
 
 ## Todos
