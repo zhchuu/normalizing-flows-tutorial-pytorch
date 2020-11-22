@@ -18,6 +18,17 @@ The output:
 <img src="https://github.com/zhchuu/normalizing-flows-tutorial-pytorch/blob/master/resources/toy2d_out.png" width="350"/>
 
 
+## Part II (moon dataset)
+
+The target dataset (left) and the output of trained flows (right):
+
+<img src="https://github.com/zhchuu/normalizing-flows-tutorial-pytorch/blob/master/resources/moon.png" width="350"/><img src="https://github.com/zhchuu/normalizing-flows-tutorial-pytorch/blob/master/resources/moon_out.png" width="350"/>
+
+The flows:
+
+<img src="https://github.com/zhchuu/normalizing-flows-tutorial-pytorch/blob/master/resources/moon_flow.png" />
+
+
 ## Todos
 - [ ] Modern normalizing flows.
 
@@ -26,3 +37,5 @@ The output:
 https://github.com/ericjang/normalizing-flows-tutorial
 
 https://github.com/acids-ircam/pytorch_flows
+
+https://github.com/kamenbliznashki/normalizing_flows
